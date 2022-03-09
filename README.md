@@ -20,4 +20,4 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Ant+Design-0170FE?style=for-the-badge&logo=Ant+Design&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=Ant+Design&logoColor=FFFFFF">
